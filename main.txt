@@ -1,0 +1,40 @@
+//2200003366
+//Saadet Elizaveta Babal
+
+import 'package:flutter/material.dart';
+import 'home.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Tic-Tac-Toe Game',
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        scaffoldBackgroundColor: const Color(0xffecf7dc),
+        fontFamily: 'Roboto',
+        primaryColor: Colors.green, // Primary color used in widgets
+
+        // Customize AppBar appearance
+        appBarTheme: const AppBarTheme(
+          backgroundColor: Colors.lightGreen,
+          foregroundColor: Colors.black,
+          centerTitle: true,
+        ),
+
+        // Style for TextButtons across the app
+        textButtonTheme: TextButtonThemeData(
+          style: TextButton.styleFrom(
+            foregroundColor: Colors.green, // Default text color
+            textStyle: const TextStyle(fontSize: 20),
+          ),
+        ),
+      ),
+      home: const HomePage(), // Initial screen when app launches
+    );
+  }
+}
