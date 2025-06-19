@@ -26,9 +26,10 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 * User-friendly interface.
 
 ## Screenshots
-./GamePage.png
-./PlayerLoginPage.png
-./WelcomePage.png
+
+![Game Screenshot](GamePage.png) <!-- Add your screenshot path -->
+![Game Screenshot](PlayerLoginPage.png)  <!-- Add your screenshot path -->
+![Game Screenshot](WelcomePage.png)  <!-- Add your screenshot path -->
 
 ## Contributing
 
