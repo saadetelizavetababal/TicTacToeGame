@@ -35,6 +35,12 @@ lib/
 ![Game Screenshot](PlayerLoginPage.png)  <!-- Add your screenshot path -->
 ![Game Screenshot](WelcomePage.png)  <!-- Add your screenshot path -->
 
+<img src="GamePage.png" width="300"/>
+<br/>
+<img src="PlayerLoginPage.png" width="300"/>
+<br/>
+<img src="WelcomePage.png" width="300"/>
+
 ## 🤝 Contributing
 
 If you'd like to contribute to this project, please follow these steps:
