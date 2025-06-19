@@ -32,9 +32,9 @@ lib/
 
 ## Screenshots
 <p align="center">
-  <img src="GamePage.png" width="250"/>
-  <img src="PlayerLoginPage.png" width="250"/>
   <img src="WelcomePage.png" width="250"/>
+  <img src="PlayerLoginPage.png" width="250"/>
+  <img src="GamePage.png" width="250"/>
 </p>
 
 ## 🤝 Contributing
