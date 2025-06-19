@@ -31,11 +31,6 @@ lib/
 4. The game ends when one player wins or all positions are filled resulting in a draw.
 
 ## Screenshots
-![Game Screenshot](GamePage.png) <!-- Add your screenshot path -->
-![Game Screenshot](PlayerLoginPage.png)  <!-- Add your screenshot path -->
-![Game Screenshot](WelcomePage.png)  <!-- Add your screenshot path -->
-
-
 <p align="center">
   <img src="GamePage.png" width="250"/>
   <img src="PlayerLoginPage.png" width="250"/>
